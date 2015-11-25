@@ -123,6 +123,11 @@ h3+h6+p{
     margin: 10px 0 0 0;
 }
 
+
+
+ul li img {width: 500px;
+    height: 500px;}
+
 footer p {
     color:#bebebe;
     border-top: 1px solid #059419;
