@@ -19,5 +19,10 @@ Pentru realizarea acestui proiect vom folosi API-urile de la GOOGLE si YOUTUBE.
 
 <hr/>
 
+Mockup
+
+<img src="site-images/1.jpg">
+<img src="site-images/2.jpg">
+<img src="site-images/3.jpg">
 
 
