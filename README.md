@@ -49,13 +49,13 @@ Am ales acest design deoarece este foarte simplist si usor de utilizat.
 
 2. Am ales sa punem inputul pentru video in partea de sus a site-ul deoarece acolo va trebui sa introduca utilizatorul link-ul video-ului si din acest motiv trebuie sa fie foarte vizibil. Daca ii va fi foarte greu sa-l gaseasca deja utilizatorul pierde foarte mult timp, si va iesi de pe site.
 
-3.Am ales sa structuram site-ul in doua, pentru a nu dezorienta utilizatorul si a fi nevoit sa caute ba in stanga ba in dreapta ce are nevoie. Asa totul va fi concentrat pe partea dreapta unde se vor gasi adnotarile si video-urile
+3. Am ales sa structuram site-ul in doua, pentru a nu dezorienta utilizatorul si a fi nevoit sa caute ba in stanga ba in dreapta ce are nevoie. Asa totul va fi concentrat pe partea dreapta unde se vor gasi adnotarile si video-urile
 
 <hr/>
 
 PROGRES
   
-  Creaee Mockup
-  Alegerea unui singur design
-  Implementarea html/css
+  1.Creaee Mockup
+  2.Alegerea unui singur design
+  3.Implementarea html/css
   
